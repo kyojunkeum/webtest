@@ -1,0 +1,38 @@
+{
+    "xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "segment",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+	},
+    "xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "cluster+segment",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+	},
+  	"xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "single",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+	},
+	"xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "cluster+segment",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+	},
+	"xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "cluster+segment",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+	},
+    "xxxx_xxx_PC": {
+        "dlp_address": "https://xxx.xxx.xxx.xxx:xxxx",
+        "_device_type" : "single, segment, cluster, cluster+segment",
+        "device_type": "cluster",
+        "dlp_client_address": "xxx.xxx.xxx.xxx"
+    }
+}
